@@ -1,1 +1,1 @@
-{"ticker":"AAPL","queryCount":1,"resultsCount":1,"adjusted":true,"results":[{"v":7.6807768e+07,"vw":157.6597,"o":159.75,"c":155.81,"h":160.362,"l":154.965,"t":1662091200000,"n":646414}],"status":"OK","request_id":"b9fd56079ecb18e03bac87b7d2f62e4b","count":1}
+{"ticker":"AAL","queryCount":0,"resultsCount":0,"adjusted":true,"status":"OK","request_id":"f29811ee3b6a3ac447dc5fc7f2446ccb"}
